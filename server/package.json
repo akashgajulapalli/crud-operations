@@ -4,7 +4,7 @@
   "description": "ziperase server side",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 6000"
+    "start": "json-server --watch db.json --port 3005"
   },
   "author": "ziperase",
   "license": "MIT",
