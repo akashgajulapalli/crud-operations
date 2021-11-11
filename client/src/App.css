@@ -1,0 +1,37 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;    
+  }
+  
+  td{
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2;}
+  
+  tr:hover {background-color: #ddd;}
+  
+  th {
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #195f8d;
+    color: white;
+  }
+  button {
+    background-color: #0da32e; 
+    color: white;
+    padding: 5px 10px;
+    text-align:center;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+  .but1{
+    background-color: #e60f0f;
+  }
+  
+

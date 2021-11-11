@@ -1,10 +1,11 @@
 import './App.css';
-import Users from './components/getUsers';
+// import Users from './components/getUsers';
+import Select from './components/select';
 
 function App() {
   return (
     <div>
-     <Users />
+     <Select />
     </div>
   );
 }
